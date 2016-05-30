@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using JWT.Serializers;
+using Newtonsoft.Json;
 using JsonSerializer = ServiceStack.Text.JsonSerializer;
 
 namespace JWT.Tests
